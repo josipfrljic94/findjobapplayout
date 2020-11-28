@@ -1,0 +1,20 @@
+.home-banner{
+    background: url("images/interview-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+.custom-container .row{
+    background: chartreuse;
+}
+@media screen and (min-width:1024px){
+    .home-banner div{
+        width: 50%;
+       
+    }
+  
+}
+
+
